@@ -1,5 +1,5 @@
 /* Mobile */
-@media (max-width: 740px) {
+@media (max-width: 46.1875em) {
 
   .s-full-width,
   .s-col-full {
@@ -58,7 +58,7 @@
 }
 
 /* tablet & mobile */
-@media (max-width: 1023px) {
+@media (max-width: 63.9375em) {
   .btn {
     padding: 15px 16px;
   }
@@ -91,9 +91,13 @@
 }
 
 /* tablet */
-@media (min-width: 740px) and (max-width: 1023px){ 
+@media (min-width: 46.25em) and (max-width: 63.9375em){ 
   .contact-info {
     line-height: 2;
   }
 }
 
+/* pc */
+@media (max-width: 64em) {
+  
+}
